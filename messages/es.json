@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "title": "Kingdom Media Hub — Sistemas de Crecimiento Automatizados para Marcas Ambiciosas",
+    "description": "Construimos sistemas digitales que generan ingresos: agentes de voz con IA, automatización, sitios web de conversión y motores de contenido. Europa · LATAM · USA."
+  },
+  "common": {
+    "growthAudit": "Solicita una Auditoría",
+    "bookConsultation": "Agenda una Consulta Gratis",
+    "bookCall": "Agenda una Llamada",
+    "whatsapp": "WhatsApp",
+    "recoverRevenue": "Recupera Ingresos Perdidos",
+    "watchDemo": "Ver Demo de IA",
+    "from": "Desde",
+    "talkToUs": "Hablemos",
+    "learnMore": "Saber más",
+    "viewCase": "Ver caso completo →",
+    "getStarted": "Comenzar"
+  },
+  "nav": {
+    "agency": "Agencia",
+    "mediaLab": "Media Lab",
+    "academy": "Academia",
+    "results": "Resultados",
+    "faq": "Preguntas",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "language": "Idioma"
+  },
+  "hero": {
+    "eyebrow": "Sistemas de Crecimiento · IA · Automatización",
+    "titleLine1": "Construimos sistemas que",
+    "titleAccent": "hacen crecer tu negocio",
+    "titleLine2": "mientras duermes",
+    "subtitle": "Agentes de voz con IA, automatización, sitios web de conversión y motores de contenido — diseñados para generar más prospectos, citas y ventas.",
+    "trust": {
+      "a": "Expertos en Automatización IA",
+      "b": "Sistemas de Crecimiento",
+      "c": "Webs de Conversión",
+      "d": "Europa · LATAM · USA"
+    },
+    "cards": {
+      "appointments": "+42 citas",
+      "appointmentsLabel": "Reservadas hoy",
+      "agent": "Agente de Voz IA",
+      "agentLabel": "Activo 24/7",
+      "leads": "+31% conversión",
+      "leadsLabel": "Leads este mes",
+      "crm": "847 registros",
+      "crmLabel": "CRM sincronizado",
+      "automation": "Automatización",
+      "automationLabel": "Ejecutándose"
+    }
+  },
+  "trust": {
+    "eyebrow": "La prueba en números",
+    "title": "Sistemas que se acumulan, resultados que se ven",
+    "stats": {
+      "businesses": "Negocios atendidos",
+      "projects": "Proyectos entregados",
+      "automations": "Automatizaciones activas",
+      "leads": "Prospectos generados"
+    }
+  },
+  "ecosystem": {
+    "eyebrow": "El Ecosistema Kingdom",
+    "title": "Tres motores, una máquina de crecimiento",
+    "subtitle": "La mayoría de las agencias te venden un servicio. Nosotros operamos un sistema conectado.",
+    "coreTitle": "Kingdom Core",
+    "coreDesc": "Media Lab crea la demanda. La Agencia la convierte en ingresos. La Academia multiplica la capacidad de tu equipo. Cada motor alimenta al siguiente.",
+    "agency": {
+      "name": "Agencia",
+      "tagline": "Genera Ingresos",
+      "items": ["Agentes de Voz IA", "Sistemas CRM", "Automatización de Ventas", "Webs de Conversión"]
+    },
+    "mediaLab": {
+      "name": "Media Lab",
+      "tagline": "Crea Demanda",
+      "items": ["Comerciales", "Reels", "Sistemas de Contenido", "Narrativa de Marca"]
+    },
+    "academy": {
+      "name": "Academia",
+      "tagline": "Forma Equipos",
+      "items": ["Educación de Marca", "Marketing", "Formación en IA", "Proyectos Reales"]
+    }
+  },
+  "roi": {
+    "eyebrow": "Calculadora de ingresos perdidos",
+    "title": "Descubre cuánto te cuestan las oportunidades perdidas",
+    "subtitle": "Ajusta a tu negocio. La estimación se actualiza al instante.",
+    "inputs": {
+      "leads": "Prospectos al mes",
+      "missedCalls": "Llamadas perdidas / mes",
+      "ticket": "Ticket promedio",
+      "conversion": "Tasa de conversión"
+    },
+    "resultLabel": "Ingresos perdidos cada mes",
+    "resultYearLabel": "Eso son",
+    "resultYearSuffix": "al año saliendo por la puerta.",
+    "disclaimer": "Estimación basada en tus datos. La mayoría se recupera con automatización y IA.",
+    "cta": "Recuperar Ingresos Perdidos"
+  },
+  "agency": {
+    "eyebrow": "Kingdom Agency",
+    "title": "Tu negocio vendiendo mientras duermes",
+    "subtitle": "Sistemas orientados a resultados que captan, califican y convierten la demanda 24/7 — sin sumar personal.",
+    "voice": {
+      "name": "Agentes de Voz con IA",
+      "tagline": "Recupera cada llamada perdida",
+      "desc": "Responde en menos de 2 timbres, agenda en tu calendario y atiende consultas — con la voz de tu marca, a cualquier hora.",
+      "points": ["Responde en menos de 2 timbres", "Agenda directo en tu calendario", "Disponible 24 horas, 365 días"]
+    },
+    "automation": {
+      "name": "Sistemas de Automatización",
+      "tagline": "Elimina el trabajo manual",
+      "desc": "Automatiza seguimientos, actualizaciones de CRM y asignación de pipeline para que tu equipo solo se enfoque en cerrar.",
+      "points": ["Automatización de CRM y pipeline", "Secuencias de seguimiento instantáneas", "Eficiencia operativa a escala"]
+    },
+    "websites": {
+      "name": "Webs de Alta Conversión",
+      "tagline": "Construidas para generar ingresos",
+      "desc": "Sitios diseñados para generación de prospectos, autoridad y ventas — no solo estética.",
+      "points": ["Arquitectura optimizada para conversión", "SEO y AEO listos desde el día uno", "Autoridad que cierra ventas"],
+      "priceLabel": "Desde",
+      "price": "$10,000+"
+    },
+    "demo": {
+      "title": "Escucha un Agente de Voz con IA en acción",
+      "desc": "Un ejemplo real de un agente recuperando una llamada perdida y agendando una cita — de principio a fin.",
+      "soon": "La demo estará disponible pronto. Solicita una demostración en vivo en una llamada.",
+      "cta": "Agenda una demostración en vivo"
+    }
+  },
+  "mediaLab": {
+    "eyebrow": "Kingdom Media Lab",
+    "title": "Contenido que construye demanda",
+    "subtitle": "Cada encuadre, corte y campaña está diseñado para generar resultados de negocio medibles — no solo vistas.",
+    "filters": {
+      "all": "Todo",
+      "commercials": "Comerciales",
+      "reels": "Reels",
+      "campaigns": "Campañas"
+    },
+    "projects": [
+      {
+        "id": "fashion-brand",
+        "title": "Campaña Marca de Moda",
+        "category": "campaigns",
+        "metric": "+212%",
+        "metricLabel": "Leads Calificados",
+        "description": "Estrategia de contenido full-funnel para generar tráfico calificado y captura de leads."
+      },
+      {
+        "id": "restaurant-chain",
+        "title": "Reels Cadena de Restaurantes",
+        "category": "reels",
+        "metric": "+38%",
+        "metricLabel": "Reservaciones",
+        "description": "Serie de contenido corto que generó incremento consistente en reservaciones."
+      },
+      {
+        "id": "medical-practice",
+        "title": "Comercial Práctica Médica",
+        "category": "commercials",
+        "metric": "+41%",
+        "metricLabel": "Nuevos Pacientes",
+        "description": "Comercial de autoridad de marca para adquirir nuevos pacientes."
+      },
+      {
+        "id": "tech-startup",
+        "title": "Lanzamiento Tech Startup",
+        "category": "campaigns",
+        "metric": "3.2×",
+        "metricLabel": "ROAS",
+        "description": "Campaña de lanzamiento en canales pagos y orgánicos."
+      }
+    ]
+  },
+  "academy": {
+    "eyebrow": "Kingdom Academy",
+    "title": "Aprende de operadores, no de teóricos",
+    "subtitle": "Programas del mundo real construidos en torno a la ejecución, proyectos en vivo y resultados medibles.",
+    "programs": [
+      {
+        "id": "branding",
+        "name": "Sistemas de Marca",
+        "desc": "Construye una marca que genere autoridad y precios premium en cualquier mercado.",
+        "badge": "Proyectos Reales"
+      },
+      {
+        "id": "marketing",
+        "name": "Marketing de Crecimiento",
+        "desc": "Generación de demanda moderna: orgánico, pagado y frameworks de conversión que se acumulan.",
+        "badge": "Proyectos Reales"
+      },
+      {
+        "id": "ai",
+        "name": "Implementación de IA",
+        "desc": "Despliega agentes IA, sistemas de automatización y agentes de voz en entornos empresariales reales.",
+        "badge": "Práctico"
+      },
+      {
+        "id": "growth",
+        "name": "Frameworks de Crecimiento",
+        "desc": "Sistemas de ingresos de extremo a extremo: desde adquisición hasta retención y referidos.",
+        "badge": "Avanzado"
+      }
+    ]
+  },
+  "howItWorks": {
+    "eyebrow": "El proceso",
+    "title": "De auditoría a escala en cinco pasos",
+    "steps": [
+      { "number": "01", "name": "Auditoría", "desc": "Mapeamos tus fugas de ingresos actuales, oportunidades perdidas y brechas de automatización." },
+      { "number": "02", "name": "Estrategia", "desc": "Diseñamos el sistema exacto — agentes de voz, automatización, contenido, sitios web — alineado a tus objetivos." },
+      { "number": "03", "name": "Implementación", "desc": "Construimos y desplegamos cada componente del sistema de crecimiento con precisión." },
+      { "number": "04", "name": "Optimización", "desc": "Monitoreamos el rendimiento, ejecutamos experimentos y refinamos hasta que los resultados se compoundan." },
+      { "number": "05", "name": "Escala", "desc": "Expandimos el sistema a nuevos mercados, canales y fuentes de ingresos." }
+    ]
+  },
+  "caseStudies": {
+    "eyebrow": "Resultados",
+    "title": "Resultados que hablan",
+    "subtitle": "Resultados reales de negocios reales. Sin proyecciones — solo lo que ya fue entregado.",
+    "cases": [
+      { "metric": "+212%", "label": "Leads Calificados", "client": "Marca de Moda", "country": "Venezuela" },
+      { "metric": "+38%", "label": "Reservaciones", "client": "Cadena de Restaurantes", "country": "LATAM" },
+      { "metric": "+41%", "label": "Llamadas Recuperadas", "client": "Práctica Médica", "country": "USA" }
+    ]
+  },
+  "socialProof": {
+    "eyebrow": "Lo que dicen nuestros clientes",
+    "title": "La confianza de marcas ambiciosas",
+    "testimonials": [
+      {
+        "quote": "Kingdom no solo nos construyó un sitio web — nos construyeron una máquina de prospectos. Pasamos de 12 a 47 leads calificados por mes en 90 días.",
+        "name": "Carlos Mendez",
+        "role": "CEO",
+        "company": "Velox Tech",
+        "metric": "+291% leads"
+      },
+      {
+        "quote": "El agente de voz con IA recuperó el 41% de nuestras llamadas perdidas en el primer mes. Eran ingresos que dejábamos ir todos los días.",
+        "name": "María Fernández",
+        "role": "Directora",
+        "company": "Centro Médico Avanza",
+        "metric": "+41% recuperado"
+      },
+      {
+        "quote": "Su sistema de automatización eliminó 3 horas de trabajo manual diario de mi equipo. Escalamos sin contratar.",
+        "name": "Diego Romero",
+        "role": "Director de Operaciones",
+        "company": "Logística Sur",
+        "metric": "3h ahorradas/día"
+      }
+    ]
+  },
+  "comparison": {
+    "eyebrow": "La diferencia",
+    "title": "Kingdom vs. la alternativa",
+    "columns": ["Característica", "Agencia Tradicional", "Freelancer", "Kingdom Media Hub"],
+    "rows": [
+      { "feature": "Agentes de Voz IA", "agency": false, "freelancer": false, "kingdom": true },
+      { "feature": "Automatización de Ventas", "agency": false, "freelancer": false, "kingdom": true },
+      { "feature": "Sistemas CRM", "agency": false, "freelancer": false, "kingdom": true },
+      { "feature": "Webs de Conversión", "agency": true, "freelancer": true, "kingdom": true },
+      { "feature": "Producción de Contenido", "agency": true, "freelancer": true, "kingdom": true },
+      { "feature": "Formación de Equipos", "agency": false, "freelancer": false, "kingdom": true },
+      { "feature": "Optimización de Ingresos", "agency": false, "freelancer": false, "kingdom": true },
+      { "feature": "Ecosistema Completo", "agency": false, "freelancer": false, "kingdom": true }
+    ],
+    "badge": "Mejor opción"
+  },
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Preguntas comunes",
+    "items": [
+      {
+        "q": "¿Qué es un Agente de Voz con IA?",
+        "a": "Un Agente de Voz con IA es un sistema inteligente que atiende llamadas telefónicas en nombre de tu negocio, las 24 horas. Maneja consultas de clientes, califica prospectos y agenda citas directamente en tu calendario — con la voz de tu marca, a cualquier hora. A diferencia de un asistente humano, nunca pierde una llamada."
+      },
+      {
+        "q": "¿Cuánto cuesta la automatización empresarial?",
+        "a": "Los proyectos de automatización en Kingdom Media Hub comienzan desde $1,500 para sistemas base y escalan según la complejidad. La mayoría de clientes recupera la inversión completa en 60–90 días gracias a los leads recuperados y la reducción de trabajo manual. Entregamos un estimado de costo-beneficio detallado en tu Auditoría de Crecimiento gratuita."
+      },
+      {
+        "q": "¿Cuánto tarda en construirse un sitio web de conversión?",
+        "a": "Nuestros sitios web de conversión se entregan en 4–8 semanas según el alcance. Cada sitio parte desde $10,000 y está diseñado para generación de prospectos, autoridad y ventas desde el primer día — no solo estética. Incluimos SEO, optimización AEO y arquitectura de conversión en cada proyecto."
+      },
+      {
+        "q": "¿Qué industrias se benefician más de la automatización?",
+        "a": "Los negocios con alto volumen de llamadas, seguimiento recurrente o procesos de venta multietapa obtienen los mayores retornos: clínicas médicas, restaurantes, bienes raíces, servicios legales, e-commerce y servicios profesionales. Si tu equipo dedica tiempo a tareas repetitivas, la automatización se paga sola rápidamente."
+      },
+      {
+        "q": "¿Puede la IA responder realmente las llamadas de los clientes?",
+        "a": "Sí. Los agentes de voz modernos manejan conversaciones naturales, responden preguntas sobre productos, recopilan información de prospectos y agendan citas con fluidez natural. Se integran con tu calendario y CRM existentes para que cada interacción quede registrada y procesada automáticamente."
+      },
+      {
+        "q": "¿Cómo puede un restaurante recuperar reservaciones perdidas?",
+        "a": "Un Agente de Voz con IA atiende cada llamada que tu equipo pierde — fuera de horario, durante el servicio pico o cuando las líneas están ocupadas. Toma los datos de reservación, confirma la cita y envía recordatorios. Uno de nuestros clientes restauranteros recuperó 38% más reservaciones en los primeros 30 días."
+      },
+      {
+        "q": "¿Qué CRM debería usar un negocio en crecimiento?",
+        "a": "Trabajamos con HubSpot, Pipedrive y configuraciones CRM personalizadas según el tamaño de tu equipo y proceso de ventas. En tu Auditoría de Crecimiento, mapeamos el stack correcto para tu flujo de trabajo real — no el que nos genera más comisión."
+      },
+      {
+        "q": "¿Cuánto ROI puede generar la automatización?",
+        "a": "Nuestros clientes suelen recuperar $1,500–$8,000 por mes en ingresos previamente perdidos durante los primeros 90 días — mediante llamadas recuperadas, seguimiento más rápido de prospectos y eliminación de trabajo manual. Usa nuestra Calculadora de ROI arriba para estimar tu oportunidad específica."
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "title": "Puntos de entrada transparentes",
+    "subtitle": "Vendemos resultados, no horas. Todo engagement comienza con una Auditoría de Crecimiento.",
+    "plans": [
+      {
+        "name": "Automatización Inicial",
+        "price": "$1,500",
+        "priceSuffix": "– $4,000",
+        "desc": "Para negocios listos para eliminar el trabajo manual y comenzar a recuperar prospectos perdidos.",
+        "features": ["Agente de Voz IA (básico)", "Automatización de seguimiento", "Integración CRM", "Optimización 30 días"],
+        "cta": "Comenzar",
+        "popular": false
+      },
+      {
+        "name": "Growth Systems",
+        "price": "Personalizado",
+        "priceSuffix": "",
+        "desc": "El ecosistema Kingdom completo: automatización, contenido, conversión y formación trabajando juntos.",
+        "features": ["Stack completo de automatización IA", "Sitio web de alta conversión", "Producción de contenido", "Formación de equipos", "Optimización 90 días", "Reporte mensual"],
+        "cta": "Agenda auditoría",
+        "popular": true
+      },
+      {
+        "name": "Enterprise",
+        "price": "Personalizado",
+        "priceSuffix": "",
+        "desc": "Despliegues multi-ubicación o internacionales con estrategia y ejecución dedicadas.",
+        "features": ["Todo en Growth Systems", "Despliegue multi-ubicación", "Estratega de crecimiento dedicado", "Desarrollo IA personalizado", "Soporte prioritario", "Revisiones de estrategia trimestrales"],
+        "cta": "Contáctanos",
+        "popular": false
+      }
+    ],
+    "popularBadge": "Más popular"
+  },
+  "contact": {
+    "eyebrow": "Inicia la conversación",
+    "title": "Construyamos tu sistema de crecimiento",
+    "subtitle": "Cuéntanos dónde quieres más ingresos. Diseñamos el sistema para llegar ahí.",
+    "form": {
+      "name": "Nombre completo",
+      "company": "Empresa",
+      "industry": "Industria",
+      "revenue": "Ingresos mensuales",
+      "email": "Correo",
+      "phone": "Teléfono / WhatsApp",
+      "projectType": "¿Qué necesitas?",
+      "message": "¿Algo más? (opcional)",
+      "submit": "Agendar Mi Consulta",
+      "submitting": "Enviando…",
+      "success": "Recibido. Te contactaremos en un día hábil.",
+      "error": "Algo salió mal. Inténtalo de nuevo o escríbenos por WhatsApp.",
+      "or": "o"
+    },
+    "revenueBands": {
+      "under-10k": "Menos de $10k",
+      "10k-50k": "$10k – $50k",
+      "50k-250k": "$50k – $250k",
+      "250k-plus": "$250k+"
+    },
+    "projectTypes": {
+      "ai-voice-agents": "Agentes de Voz con IA",
+      "automation": "Sistemas de Automatización",
+      "website": "Web de Conversión",
+      "content-production": "Producción de Contenido",
+      "training": "Formación de Equipos",
+      "full-ecosystem": "Ecosistema Completo"
+    },
+    "validation": {
+      "name": "Ingresa tu nombre",
+      "company": "Ingresa tu empresa",
+      "industry": "Ingresa tu industria",
+      "revenue": "Selecciona un rango de ingresos",
+      "email": "Ingresa un correo válido",
+      "phone": "Ingresa un teléfono válido",
+      "projectType": "Selecciona qué necesitas"
+    }
+  },
+  "footer": {
+    "tagline": "Construimos sistemas digitales que generan ingresos para marcas ambiciosas.",
+    "ecosystem": "Ecosistema",
+    "company": "Empresa",
+    "getStarted": "Comienza",
+    "markets": "Europa · LATAM · USA",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Privacidad",
+    "terms": "Términos"
+  },
+  "cro": {
+    "whatsappPrefill": "Hola Kingdom Media Hub — quiero una auditoría de crecimiento para mi negocio."
+  }
+}
