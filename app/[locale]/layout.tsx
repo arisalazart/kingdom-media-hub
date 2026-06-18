@@ -89,7 +89,7 @@ export default async function LocaleLayout({
         <script {...jsonLdScript(organizationSchema())} />
         <script {...jsonLdScript(localBusinessSchema())} />
       </head>
-      <body className="min-h-dvh antialiased">
+      <body className="min-h-dvh antialiased" suppressHydrationWarning>
         <NextIntlClientProvider>
           <LenisProvider>{children}</LenisProvider>
         </NextIntlClientProvider>
